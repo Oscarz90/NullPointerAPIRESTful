@@ -1,0 +1,17 @@
+{
+  "name": "nullpointerapirestful",
+  "version": "1.0.0",
+  "description": "Api RESTful para aplicacion NullPointer.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OMS - Oscar Martínez Sánchez",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.6.4"
+  }
+}
